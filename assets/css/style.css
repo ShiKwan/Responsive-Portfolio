@@ -63,7 +63,7 @@ h2{
     font-weight: bold;
 }
 header h1 {
-	width: 25%;
+	width: 40%;
 	float:left;
 	margin:0;
 	padding: 25px 0 25px 0;
@@ -231,7 +231,7 @@ form textarea {
 		height:73px;
 	}
 	header h1 {
-		width:25%;
+		width:33%;
 		font-size: 1.5em;
 		padding: 27px 0 25px 0 ;
 	}
@@ -287,6 +287,9 @@ form textarea {
 	.container .left {
 		width:100%;
 		margin-bottom: 10px;
+	}
+	header h1 {
+		width: 35%;
 	}
  	.container .right {
  		width: 100%;
